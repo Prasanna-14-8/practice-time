@@ -1,4 +1,4 @@
 # practice-time
 This is my first repository.
 <br>
-Author - Lucky
+Author - Lucky(Prasanna)
